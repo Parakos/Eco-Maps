@@ -1,0 +1,37 @@
+{
+  "initial_position": {
+    "lat": 37.9838,
+    "lon": 23.7275
+  },
+  "initial_mode": "ev",
+  "initial_battery_soc": 80,
+  "events": [
+    {
+      "time_offset_s": 0,
+      "type": "start",
+      "description": "Journey begins"
+    },
+    {
+      "time_offset_s": 300,
+      "type": "traffic_update",
+      "affected_routes": [
+        "route_001",
+        "route_002"
+      ],
+      "traffic_multiplier": 1.5,
+      "description": "Traffic spike on main routes"
+    },
+    {
+      "time_offset_s": 600,
+      "type": "weather_change",
+      "condition": "rain",
+      "description": "Rain begins"
+    },
+    {
+      "time_offset_s": 900,
+      "type": "battery_update",
+      "battery_soc": 60,
+      "description": "Battery depleted to 60%"
+    }
+  ]
+}

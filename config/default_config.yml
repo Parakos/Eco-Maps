@@ -1,0 +1,39 @@
+```yaml
+# User preferences
+preferences:
+  time_weight: 1.0
+  co2_weight: 2.0
+  monetary_weight: 0.5
+  max_detour_pct: 20
+
+# Model settings
+model:
+  sequence_length: 20
+  hidden_size: 64
+  num_layers: 2
+  
+# Training
+training:
+  epochs: 50
+  batch_size: 32
+  learning_rate: 0.001
+
+# External API Configuration
+external_apis:
+
+  # Data source types: 'mock' or live API name
+  traffic_source: 'tomtom'  # Options: 'mock', 'tomtom', 'google'
+  weather_source: 'openweathermap'  # Options: 'mock', 'openweathermap'
+  grid_carbon_source: 'static'  # Options: 'mock','static', 'electricitymap'
+  charger_source: 'openchargemap'  # Options: 'mock', 'openchargemap'
+  
+  # Routing
+  use_osm_routing: true  # Set to true to enable real map routing
+  osm_cache_dir: 'data/osm_cache'
+  
+  # API Keys (will be replaced from environment variables)
+  tomtom_api_key: ${TOMTOM_API_KEY}
+  google_maps_api_key: ${GOOGLE_MAPS_API_KEY}
+  openweathermap_api_key: ${OPENWEATHERMAP_API_KEY}
+  openchargemap_api_key: ${OPENCHARGEMAP_API_KEY}
+```

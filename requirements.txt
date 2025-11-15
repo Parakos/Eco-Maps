@@ -1,0 +1,12 @@
+torch==2.2.2
+numpy==2.1.2
+fastapi==0.110.0
+uvicorn==0.29.0
+pyyaml==6.0.1
+# OSM and routing
+requests==2.31.0
+osmnx==1.6.0
+networkx==3.2
+shapely==2.0.2
+geopandas==0.14.1
+rtree==1.1.0

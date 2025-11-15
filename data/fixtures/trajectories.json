@@ -1,0 +1,902 @@
+[
+  {
+    "user_id": "user_0",
+    "timestamp": "2025-11-14T08:00:00",
+    "lat": 37.9838,
+    "lon": 23.7275,
+    "speed_m_s": 1.4,
+    "accel_m_s2": 0.1,
+    "mode": "walk"
+  },
+  {
+    "user_id": "user_1",
+    "timestamp": "2025-11-14T08:01:00",
+    "lat": 37.9848,
+    "lon": 23.7285,
+    "speed_m_s": 1.5999999999999999,
+    "accel_m_s2": 0.1,
+    "mode": "bike"
+  },
+  {
+    "user_id": "user_2",
+    "timestamp": "2025-11-14T08:02:00",
+    "lat": 37.985800000000005,
+    "lon": 23.729499999999998,
+    "speed_m_s": 1.7999999999999998,
+    "accel_m_s2": 0.1,
+    "mode": "ev"
+  },
+  {
+    "user_id": "user_3",
+    "timestamp": "2025-11-14T08:03:00",
+    "lat": 37.9868,
+    "lon": 23.7305,
+    "speed_m_s": 2.0,
+    "accel_m_s2": 0.1,
+    "mode": "walk"
+  },
+  {
+    "user_id": "user_4",
+    "timestamp": "2025-11-14T08:04:00",
+    "lat": 37.9878,
+    "lon": 23.7315,
+    "speed_m_s": 2.2,
+    "accel_m_s2": 0.1,
+    "mode": "bike"
+  },
+  {
+    "user_id": "user_5",
+    "timestamp": "2025-11-14T08:05:00",
+    "lat": 37.988800000000005,
+    "lon": 23.732499999999998,
+    "speed_m_s": 1.4,
+    "accel_m_s2": 0.1,
+    "mode": "ev"
+  },
+  {
+    "user_id": "user_6",
+    "timestamp": "2025-11-14T08:06:00",
+    "lat": 37.9898,
+    "lon": 23.7335,
+    "speed_m_s": 1.5999999999999999,
+    "accel_m_s2": 0.1,
+    "mode": "walk"
+  },
+  {
+    "user_id": "user_7",
+    "timestamp": "2025-11-14T08:07:00",
+    "lat": 37.9908,
+    "lon": 23.7345,
+    "speed_m_s": 1.7999999999999998,
+    "accel_m_s2": 0.1,
+    "mode": "bike"
+  },
+  {
+    "user_id": "user_8",
+    "timestamp": "2025-11-14T08:08:00",
+    "lat": 37.991800000000005,
+    "lon": 23.7355,
+    "speed_m_s": 2.0,
+    "accel_m_s2": 0.1,
+    "mode": "ev"
+  },
+  {
+    "user_id": "user_9",
+    "timestamp": "2025-11-14T08:09:00",
+    "lat": 37.9928,
+    "lon": 23.7365,
+    "speed_m_s": 2.2,
+    "accel_m_s2": 0.1,
+    "mode": "walk"
+  },
+  {
+    "user_id": "user_0",
+    "timestamp": "2025-11-14T08:10:00",
+    "lat": 37.9838,
+    "lon": 23.7275,
+    "speed_m_s": 1.4,
+    "accel_m_s2": 0.1,
+    "mode": "bike"
+  },
+  {
+    "user_id": "user_1",
+    "timestamp": "2025-11-14T08:11:00",
+    "lat": 37.9848,
+    "lon": 23.7285,
+    "speed_m_s": 1.5999999999999999,
+    "accel_m_s2": 0.1,
+    "mode": "ev"
+  },
+  {
+    "user_id": "user_2",
+    "timestamp": "2025-11-14T08:12:00",
+    "lat": 37.985800000000005,
+    "lon": 23.729499999999998,
+    "speed_m_s": 1.7999999999999998,
+    "accel_m_s2": 0.1,
+    "mode": "walk"
+  },
+  {
+    "user_id": "user_3",
+    "timestamp": "2025-11-14T08:13:00",
+    "lat": 37.9868,
+    "lon": 23.7305,
+    "speed_m_s": 2.0,
+    "accel_m_s2": 0.1,
+    "mode": "bike"
+  },
+  {
+    "user_id": "user_4",
+    "timestamp": "2025-11-14T08:14:00",
+    "lat": 37.9878,
+    "lon": 23.7315,
+    "speed_m_s": 2.2,
+    "accel_m_s2": 0.1,
+    "mode": "ev"
+  },
+  {
+    "user_id": "user_5",
+    "timestamp": "2025-11-14T08:15:00",
+    "lat": 37.988800000000005,
+    "lon": 23.732499999999998,
+    "speed_m_s": 1.4,
+    "accel_m_s2": 0.1,
+    "mode": "walk"
+  },
+  {
+    "user_id": "user_6",
+    "timestamp": "2025-11-14T08:16:00",
+    "lat": 37.9898,
+    "lon": 23.7335,
+    "speed_m_s": 1.5999999999999999,
+    "accel_m_s2": 0.1,
+    "mode": "bike"
+  },
+  {
+    "user_id": "user_7",
+    "timestamp": "2025-11-14T08:17:00",
+    "lat": 37.9908,
+    "lon": 23.7345,
+    "speed_m_s": 1.7999999999999998,
+    "accel_m_s2": 0.1,
+    "mode": "ev"
+  },
+  {
+    "user_id": "user_8",
+    "timestamp": "2025-11-14T08:18:00",
+    "lat": 37.991800000000005,
+    "lon": 23.7355,
+    "speed_m_s": 2.0,
+    "accel_m_s2": 0.1,
+    "mode": "walk"
+  },
+  {
+    "user_id": "user_9",
+    "timestamp": "2025-11-14T08:19:00",
+    "lat": 37.9928,
+    "lon": 23.7365,
+    "speed_m_s": 2.2,
+    "accel_m_s2": 0.1,
+    "mode": "bike"
+  },
+  {
+    "user_id": "user_0",
+    "timestamp": "2025-11-14T08:20:00",
+    "lat": 37.9838,
+    "lon": 23.7275,
+    "speed_m_s": 1.4,
+    "accel_m_s2": 0.1,
+    "mode": "ev"
+  },
+  {
+    "user_id": "user_1",
+    "timestamp": "2025-11-14T08:21:00",
+    "lat": 37.9848,
+    "lon": 23.7285,
+    "speed_m_s": 1.5999999999999999,
+    "accel_m_s2": 0.1,
+    "mode": "walk"
+  },
+  {
+    "user_id": "user_2",
+    "timestamp": "2025-11-14T08:22:00",
+    "lat": 37.985800000000005,
+    "lon": 23.729499999999998,
+    "speed_m_s": 1.7999999999999998,
+    "accel_m_s2": 0.1,
+    "mode": "bike"
+  },
+  {
+    "user_id": "user_3",
+    "timestamp": "2025-11-14T08:23:00",
+    "lat": 37.9868,
+    "lon": 23.7305,
+    "speed_m_s": 2.0,
+    "accel_m_s2": 0.1,
+    "mode": "ev"
+  },
+  {
+    "user_id": "user_4",
+    "timestamp": "2025-11-14T08:24:00",
+    "lat": 37.9878,
+    "lon": 23.7315,
+    "speed_m_s": 2.2,
+    "accel_m_s2": 0.1,
+    "mode": "walk"
+  },
+  {
+    "user_id": "user_5",
+    "timestamp": "2025-11-14T08:25:00",
+    "lat": 37.988800000000005,
+    "lon": 23.732499999999998,
+    "speed_m_s": 1.4,
+    "accel_m_s2": 0.1,
+    "mode": "bike"
+  },
+  {
+    "user_id": "user_6",
+    "timestamp": "2025-11-14T08:26:00",
+    "lat": 37.9898,
+    "lon": 23.7335,
+    "speed_m_s": 1.5999999999999999,
+    "accel_m_s2": 0.1,
+    "mode": "ev"
+  },
+  {
+    "user_id": "user_7",
+    "timestamp": "2025-11-14T08:27:00",
+    "lat": 37.9908,
+    "lon": 23.7345,
+    "speed_m_s": 1.7999999999999998,
+    "accel_m_s2": 0.1,
+    "mode": "walk"
+  },
+  {
+    "user_id": "user_8",
+    "timestamp": "2025-11-14T08:28:00",
+    "lat": 37.991800000000005,
+    "lon": 23.7355,
+    "speed_m_s": 2.0,
+    "accel_m_s2": 0.1,
+    "mode": "bike"
+  },
+  {
+    "user_id": "user_9",
+    "timestamp": "2025-11-14T08:29:00",
+    "lat": 37.9928,
+    "lon": 23.7365,
+    "speed_m_s": 2.2,
+    "accel_m_s2": 0.1,
+    "mode": "ev"
+  },
+  {
+    "user_id": "user_0",
+    "timestamp": "2025-11-14T08:30:00",
+    "lat": 37.9838,
+    "lon": 23.7275,
+    "speed_m_s": 1.4,
+    "accel_m_s2": 0.1,
+    "mode": "walk"
+  },
+  {
+    "user_id": "user_1",
+    "timestamp": "2025-11-14T08:31:00",
+    "lat": 37.9848,
+    "lon": 23.7285,
+    "speed_m_s": 1.5999999999999999,
+    "accel_m_s2": 0.1,
+    "mode": "bike"
+  },
+  {
+    "user_id": "user_2",
+    "timestamp": "2025-11-14T08:32:00",
+    "lat": 37.985800000000005,
+    "lon": 23.729499999999998,
+    "speed_m_s": 1.7999999999999998,
+    "accel_m_s2": 0.1,
+    "mode": "ev"
+  },
+  {
+    "user_id": "user_3",
+    "timestamp": "2025-11-14T08:33:00",
+    "lat": 37.9868,
+    "lon": 23.7305,
+    "speed_m_s": 2.0,
+    "accel_m_s2": 0.1,
+    "mode": "walk"
+  },
+  {
+    "user_id": "user_4",
+    "timestamp": "2025-11-14T08:34:00",
+    "lat": 37.9878,
+    "lon": 23.7315,
+    "speed_m_s": 2.2,
+    "accel_m_s2": 0.1,
+    "mode": "bike"
+  },
+  {
+    "user_id": "user_5",
+    "timestamp": "2025-11-14T08:35:00",
+    "lat": 37.988800000000005,
+    "lon": 23.732499999999998,
+    "speed_m_s": 1.4,
+    "accel_m_s2": 0.1,
+    "mode": "ev"
+  },
+  {
+    "user_id": "user_6",
+    "timestamp": "2025-11-14T08:36:00",
+    "lat": 37.9898,
+    "lon": 23.7335,
+    "speed_m_s": 1.5999999999999999,
+    "accel_m_s2": 0.1,
+    "mode": "walk"
+  },
+  {
+    "user_id": "user_7",
+    "timestamp": "2025-11-14T08:37:00",
+    "lat": 37.9908,
+    "lon": 23.7345,
+    "speed_m_s": 1.7999999999999998,
+    "accel_m_s2": 0.1,
+    "mode": "bike"
+  },
+  {
+    "user_id": "user_8",
+    "timestamp": "2025-11-14T08:38:00",
+    "lat": 37.991800000000005,
+    "lon": 23.7355,
+    "speed_m_s": 2.0,
+    "accel_m_s2": 0.1,
+    "mode": "ev"
+  },
+  {
+    "user_id": "user_9",
+    "timestamp": "2025-11-14T08:39:00",
+    "lat": 37.9928,
+    "lon": 23.7365,
+    "speed_m_s": 2.2,
+    "accel_m_s2": 0.1,
+    "mode": "walk"
+  },
+  {
+    "user_id": "user_0",
+    "timestamp": "2025-11-14T08:40:00",
+    "lat": 37.9838,
+    "lon": 23.7275,
+    "speed_m_s": 1.4,
+    "accel_m_s2": 0.1,
+    "mode": "bike"
+  },
+  {
+    "user_id": "user_1",
+    "timestamp": "2025-11-14T08:41:00",
+    "lat": 37.9848,
+    "lon": 23.7285,
+    "speed_m_s": 1.5999999999999999,
+    "accel_m_s2": 0.1,
+    "mode": "ev"
+  },
+  {
+    "user_id": "user_2",
+    "timestamp": "2025-11-14T08:42:00",
+    "lat": 37.985800000000005,
+    "lon": 23.729499999999998,
+    "speed_m_s": 1.7999999999999998,
+    "accel_m_s2": 0.1,
+    "mode": "walk"
+  },
+  {
+    "user_id": "user_3",
+    "timestamp": "2025-11-14T08:43:00",
+    "lat": 37.9868,
+    "lon": 23.7305,
+    "speed_m_s": 2.0,
+    "accel_m_s2": 0.1,
+    "mode": "bike"
+  },
+  {
+    "user_id": "user_4",
+    "timestamp": "2025-11-14T08:44:00",
+    "lat": 37.9878,
+    "lon": 23.7315,
+    "speed_m_s": 2.2,
+    "accel_m_s2": 0.1,
+    "mode": "ev"
+  },
+  {
+    "user_id": "user_5",
+    "timestamp": "2025-11-14T08:45:00",
+    "lat": 37.988800000000005,
+    "lon": 23.732499999999998,
+    "speed_m_s": 1.4,
+    "accel_m_s2": 0.1,
+    "mode": "walk"
+  },
+  {
+    "user_id": "user_6",
+    "timestamp": "2025-11-14T08:46:00",
+    "lat": 37.9898,
+    "lon": 23.7335,
+    "speed_m_s": 1.5999999999999999,
+    "accel_m_s2": 0.1,
+    "mode": "bike"
+  },
+  {
+    "user_id": "user_7",
+    "timestamp": "2025-11-14T08:47:00",
+    "lat": 37.9908,
+    "lon": 23.7345,
+    "speed_m_s": 1.7999999999999998,
+    "accel_m_s2": 0.1,
+    "mode": "ev"
+  },
+  {
+    "user_id": "user_8",
+    "timestamp": "2025-11-14T08:48:00",
+    "lat": 37.991800000000005,
+    "lon": 23.7355,
+    "speed_m_s": 2.0,
+    "accel_m_s2": 0.1,
+    "mode": "walk"
+  },
+  {
+    "user_id": "user_9",
+    "timestamp": "2025-11-14T08:49:00",
+    "lat": 37.9928,
+    "lon": 23.7365,
+    "speed_m_s": 2.2,
+    "accel_m_s2": 0.1,
+    "mode": "bike"
+  },
+  {
+    "user_id": "user_0",
+    "timestamp": "2025-11-14T08:50:00",
+    "lat": 37.9838,
+    "lon": 23.7275,
+    "speed_m_s": 1.4,
+    "accel_m_s2": 0.1,
+    "mode": "ev"
+  },
+  {
+    "user_id": "user_1",
+    "timestamp": "2025-11-14T08:51:00",
+    "lat": 37.9848,
+    "lon": 23.7285,
+    "speed_m_s": 1.5999999999999999,
+    "accel_m_s2": 0.1,
+    "mode": "walk"
+  },
+  {
+    "user_id": "user_2",
+    "timestamp": "2025-11-14T08:52:00",
+    "lat": 37.985800000000005,
+    "lon": 23.729499999999998,
+    "speed_m_s": 1.7999999999999998,
+    "accel_m_s2": 0.1,
+    "mode": "bike"
+  },
+  {
+    "user_id": "user_3",
+    "timestamp": "2025-11-14T08:53:00",
+    "lat": 37.9868,
+    "lon": 23.7305,
+    "speed_m_s": 2.0,
+    "accel_m_s2": 0.1,
+    "mode": "ev"
+  },
+  {
+    "user_id": "user_4",
+    "timestamp": "2025-11-14T08:54:00",
+    "lat": 37.9878,
+    "lon": 23.7315,
+    "speed_m_s": 2.2,
+    "accel_m_s2": 0.1,
+    "mode": "walk"
+  },
+  {
+    "user_id": "user_5",
+    "timestamp": "2025-11-14T08:55:00",
+    "lat": 37.988800000000005,
+    "lon": 23.732499999999998,
+    "speed_m_s": 1.4,
+    "accel_m_s2": 0.1,
+    "mode": "bike"
+  },
+  {
+    "user_id": "user_6",
+    "timestamp": "2025-11-14T08:56:00",
+    "lat": 37.9898,
+    "lon": 23.7335,
+    "speed_m_s": 1.5999999999999999,
+    "accel_m_s2": 0.1,
+    "mode": "ev"
+  },
+  {
+    "user_id": "user_7",
+    "timestamp": "2025-11-14T08:57:00",
+    "lat": 37.9908,
+    "lon": 23.7345,
+    "speed_m_s": 1.7999999999999998,
+    "accel_m_s2": 0.1,
+    "mode": "walk"
+  },
+  {
+    "user_id": "user_8",
+    "timestamp": "2025-11-14T08:58:00",
+    "lat": 37.991800000000005,
+    "lon": 23.7355,
+    "speed_m_s": 2.0,
+    "accel_m_s2": 0.1,
+    "mode": "bike"
+  },
+  {
+    "user_id": "user_9",
+    "timestamp": "2025-11-14T08:59:00",
+    "lat": 37.9928,
+    "lon": 23.7365,
+    "speed_m_s": 2.2,
+    "accel_m_s2": 0.1,
+    "mode": "ev"
+  },
+  {
+    "user_id": "user_0",
+    "timestamp": "2025-11-14T09:00:00",
+    "lat": 37.9838,
+    "lon": 23.7275,
+    "speed_m_s": 1.4,
+    "accel_m_s2": 0.1,
+    "mode": "walk"
+  },
+  {
+    "user_id": "user_1",
+    "timestamp": "2025-11-14T09:01:00",
+    "lat": 37.9848,
+    "lon": 23.7285,
+    "speed_m_s": 1.5999999999999999,
+    "accel_m_s2": 0.1,
+    "mode": "bike"
+  },
+  {
+    "user_id": "user_2",
+    "timestamp": "2025-11-14T09:02:00",
+    "lat": 37.985800000000005,
+    "lon": 23.729499999999998,
+    "speed_m_s": 1.7999999999999998,
+    "accel_m_s2": 0.1,
+    "mode": "ev"
+  },
+  {
+    "user_id": "user_3",
+    "timestamp": "2025-11-14T09:03:00",
+    "lat": 37.9868,
+    "lon": 23.7305,
+    "speed_m_s": 2.0,
+    "accel_m_s2": 0.1,
+    "mode": "walk"
+  },
+  {
+    "user_id": "user_4",
+    "timestamp": "2025-11-14T09:04:00",
+    "lat": 37.9878,
+    "lon": 23.7315,
+    "speed_m_s": 2.2,
+    "accel_m_s2": 0.1,
+    "mode": "bike"
+  },
+  {
+    "user_id": "user_5",
+    "timestamp": "2025-11-14T09:05:00",
+    "lat": 37.988800000000005,
+    "lon": 23.732499999999998,
+    "speed_m_s": 1.4,
+    "accel_m_s2": 0.1,
+    "mode": "ev"
+  },
+  {
+    "user_id": "user_6",
+    "timestamp": "2025-11-14T09:06:00",
+    "lat": 37.9898,
+    "lon": 23.7335,
+    "speed_m_s": 1.5999999999999999,
+    "accel_m_s2": 0.1,
+    "mode": "walk"
+  },
+  {
+    "user_id": "user_7",
+    "timestamp": "2025-11-14T09:07:00",
+    "lat": 37.9908,
+    "lon": 23.7345,
+    "speed_m_s": 1.7999999999999998,
+    "accel_m_s2": 0.1,
+    "mode": "bike"
+  },
+  {
+    "user_id": "user_8",
+    "timestamp": "2025-11-14T09:08:00",
+    "lat": 37.991800000000005,
+    "lon": 23.7355,
+    "speed_m_s": 2.0,
+    "accel_m_s2": 0.1,
+    "mode": "ev"
+  },
+  {
+    "user_id": "user_9",
+    "timestamp": "2025-11-14T09:09:00",
+    "lat": 37.9928,
+    "lon": 23.7365,
+    "speed_m_s": 2.2,
+    "accel_m_s2": 0.1,
+    "mode": "walk"
+  },
+  {
+    "user_id": "user_0",
+    "timestamp": "2025-11-14T09:10:00",
+    "lat": 37.9838,
+    "lon": 23.7275,
+    "speed_m_s": 1.4,
+    "accel_m_s2": 0.1,
+    "mode": "bike"
+  },
+  {
+    "user_id": "user_1",
+    "timestamp": "2025-11-14T09:11:00",
+    "lat": 37.9848,
+    "lon": 23.7285,
+    "speed_m_s": 1.5999999999999999,
+    "accel_m_s2": 0.1,
+    "mode": "ev"
+  },
+  {
+    "user_id": "user_2",
+    "timestamp": "2025-11-14T09:12:00",
+    "lat": 37.985800000000005,
+    "lon": 23.729499999999998,
+    "speed_m_s": 1.7999999999999998,
+    "accel_m_s2": 0.1,
+    "mode": "walk"
+  },
+  {
+    "user_id": "user_3",
+    "timestamp": "2025-11-14T09:13:00",
+    "lat": 37.9868,
+    "lon": 23.7305,
+    "speed_m_s": 2.0,
+    "accel_m_s2": 0.1,
+    "mode": "bike"
+  },
+  {
+    "user_id": "user_4",
+    "timestamp": "2025-11-14T09:14:00",
+    "lat": 37.9878,
+    "lon": 23.7315,
+    "speed_m_s": 2.2,
+    "accel_m_s2": 0.1,
+    "mode": "ev"
+  },
+  {
+    "user_id": "user_5",
+    "timestamp": "2025-11-14T09:15:00",
+    "lat": 37.988800000000005,
+    "lon": 23.732499999999998,
+    "speed_m_s": 1.4,
+    "accel_m_s2": 0.1,
+    "mode": "walk"
+  },
+  {
+    "user_id": "user_6",
+    "timestamp": "2025-11-14T09:16:00",
+    "lat": 37.9898,
+    "lon": 23.7335,
+    "speed_m_s": 1.5999999999999999,
+    "accel_m_s2": 0.1,
+    "mode": "bike"
+  },
+  {
+    "user_id": "user_7",
+    "timestamp": "2025-11-14T09:17:00",
+    "lat": 37.9908,
+    "lon": 23.7345,
+    "speed_m_s": 1.7999999999999998,
+    "accel_m_s2": 0.1,
+    "mode": "ev"
+  },
+  {
+    "user_id": "user_8",
+    "timestamp": "2025-11-14T09:18:00",
+    "lat": 37.991800000000005,
+    "lon": 23.7355,
+    "speed_m_s": 2.0,
+    "accel_m_s2": 0.1,
+    "mode": "walk"
+  },
+  {
+    "user_id": "user_9",
+    "timestamp": "2025-11-14T09:19:00",
+    "lat": 37.9928,
+    "lon": 23.7365,
+    "speed_m_s": 2.2,
+    "accel_m_s2": 0.1,
+    "mode": "bike"
+  },
+  {
+    "user_id": "user_0",
+    "timestamp": "2025-11-14T09:20:00",
+    "lat": 37.9838,
+    "lon": 23.7275,
+    "speed_m_s": 1.4,
+    "accel_m_s2": 0.1,
+    "mode": "ev"
+  },
+  {
+    "user_id": "user_1",
+    "timestamp": "2025-11-14T09:21:00",
+    "lat": 37.9848,
+    "lon": 23.7285,
+    "speed_m_s": 1.5999999999999999,
+    "accel_m_s2": 0.1,
+    "mode": "walk"
+  },
+  {
+    "user_id": "user_2",
+    "timestamp": "2025-11-14T09:22:00",
+    "lat": 37.985800000000005,
+    "lon": 23.729499999999998,
+    "speed_m_s": 1.7999999999999998,
+    "accel_m_s2": 0.1,
+    "mode": "bike"
+  },
+  {
+    "user_id": "user_3",
+    "timestamp": "2025-11-14T09:23:00",
+    "lat": 37.9868,
+    "lon": 23.7305,
+    "speed_m_s": 2.0,
+    "accel_m_s2": 0.1,
+    "mode": "ev"
+  },
+  {
+    "user_id": "user_4",
+    "timestamp": "2025-11-14T09:24:00",
+    "lat": 37.9878,
+    "lon": 23.7315,
+    "speed_m_s": 2.2,
+    "accel_m_s2": 0.1,
+    "mode": "walk"
+  },
+  {
+    "user_id": "user_5",
+    "timestamp": "2025-11-14T09:25:00",
+    "lat": 37.988800000000005,
+    "lon": 23.732499999999998,
+    "speed_m_s": 1.4,
+    "accel_m_s2": 0.1,
+    "mode": "bike"
+  },
+  {
+    "user_id": "user_6",
+    "timestamp": "2025-11-14T09:26:00",
+    "lat": 37.9898,
+    "lon": 23.7335,
+    "speed_m_s": 1.5999999999999999,
+    "accel_m_s2": 0.1,
+    "mode": "ev"
+  },
+  {
+    "user_id": "user_7",
+    "timestamp": "2025-11-14T09:27:00",
+    "lat": 37.9908,
+    "lon": 23.7345,
+    "speed_m_s": 1.7999999999999998,
+    "accel_m_s2": 0.1,
+    "mode": "walk"
+  },
+  {
+    "user_id": "user_8",
+    "timestamp": "2025-11-14T09:28:00",
+    "lat": 37.991800000000005,
+    "lon": 23.7355,
+    "speed_m_s": 2.0,
+    "accel_m_s2": 0.1,
+    "mode": "bike"
+  },
+  {
+    "user_id": "user_9",
+    "timestamp": "2025-11-14T09:29:00",
+    "lat": 37.9928,
+    "lon": 23.7365,
+    "speed_m_s": 2.2,
+    "accel_m_s2": 0.1,
+    "mode": "ev"
+  },
+  {
+    "user_id": "user_0",
+    "timestamp": "2025-11-14T09:30:00",
+    "lat": 37.9838,
+    "lon": 23.7275,
+    "speed_m_s": 1.4,
+    "accel_m_s2": 0.1,
+    "mode": "walk"
+  },
+  {
+    "user_id": "user_1",
+    "timestamp": "2025-11-14T09:31:00",
+    "lat": 37.9848,
+    "lon": 23.7285,
+    "speed_m_s": 1.5999999999999999,
+    "accel_m_s2": 0.1,
+    "mode": "bike"
+  },
+  {
+    "user_id": "user_2",
+    "timestamp": "2025-11-14T09:32:00",
+    "lat": 37.985800000000005,
+    "lon": 23.729499999999998,
+    "speed_m_s": 1.7999999999999998,
+    "accel_m_s2": 0.1,
+    "mode": "ev"
+  },
+  {
+    "user_id": "user_3",
+    "timestamp": "2025-11-14T09:33:00",
+    "lat": 37.9868,
+    "lon": 23.7305,
+    "speed_m_s": 2.0,
+    "accel_m_s2": 0.1,
+    "mode": "walk"
+  },
+  {
+    "user_id": "user_4",
+    "timestamp": "2025-11-14T09:34:00",
+    "lat": 37.9878,
+    "lon": 23.7315,
+    "speed_m_s": 2.2,
+    "accel_m_s2": 0.1,
+    "mode": "bike"
+  },
+  {
+    "user_id": "user_5",
+    "timestamp": "2025-11-14T09:35:00",
+    "lat": 37.988800000000005,
+    "lon": 23.732499999999998,
+    "speed_m_s": 1.4,
+    "accel_m_s2": 0.1,
+    "mode": "ev"
+  },
+  {
+    "user_id": "user_6",
+    "timestamp": "2025-11-14T09:36:00",
+    "lat": 37.9898,
+    "lon": 23.7335,
+    "speed_m_s": 1.5999999999999999,
+    "accel_m_s2": 0.1,
+    "mode": "walk"
+  },
+  {
+    "user_id": "user_7",
+    "timestamp": "2025-11-14T09:37:00",
+    "lat": 37.9908,
+    "lon": 23.7345,
+    "speed_m_s": 1.7999999999999998,
+    "accel_m_s2": 0.1,
+    "mode": "bike"
+  },
+  {
+    "user_id": "user_8",
+    "timestamp": "2025-11-14T09:38:00",
+    "lat": 37.991800000000005,
+    "lon": 23.7355,
+    "speed_m_s": 2.0,
+    "accel_m_s2": 0.1,
+    "mode": "ev"
+  },
+  {
+    "user_id": "user_9",
+    "timestamp": "2025-11-14T09:39:00",
+    "lat": 37.9928,
+    "lon": 23.7365,
+    "speed_m_s": 2.2,
+    "accel_m_s2": 0.1,
+    "mode": "walk"
+  }
+]

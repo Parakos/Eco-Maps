@@ -1,0 +1,422 @@
+[
+  {
+    "route_id": "route_000",
+    "segments": [
+      {
+        "start": [
+          37.98,
+          23.72
+        ],
+        "end": [
+          37.99,
+          23.73
+        ],
+        "distance_m": 1000,
+        "elevation_gain_m": 10,
+        "road_type": "paved",
+        "has_bike_lane": true
+      }
+    ],
+    "mode": "walk",
+    "estimated_travel_time_s": 600
+  },
+  {
+    "route_id": "route_001",
+    "segments": [
+      {
+        "start": [
+          37.980999999999995,
+          23.721
+        ],
+        "end": [
+          37.991,
+          23.731
+        ],
+        "distance_m": 1100,
+        "elevation_gain_m": 12,
+        "road_type": "paved",
+        "has_bike_lane": false
+      }
+    ],
+    "mode": "bike",
+    "estimated_travel_time_s": 660
+  },
+  {
+    "route_id": "route_002",
+    "segments": [
+      {
+        "start": [
+          37.982,
+          23.721999999999998
+        ],
+        "end": [
+          37.992000000000004,
+          23.732
+        ],
+        "distance_m": 1200,
+        "elevation_gain_m": 14,
+        "road_type": "paved",
+        "has_bike_lane": true
+      }
+    ],
+    "mode": "ev",
+    "estimated_travel_time_s": 720
+  },
+  {
+    "route_id": "route_003",
+    "segments": [
+      {
+        "start": [
+          37.983,
+          23.723
+        ],
+        "end": [
+          37.993,
+          23.733
+        ],
+        "distance_m": 1300,
+        "elevation_gain_m": 16,
+        "road_type": "paved",
+        "has_bike_lane": false
+      }
+    ],
+    "mode": "car",
+    "estimated_travel_time_s": 780
+  },
+  {
+    "route_id": "route_004",
+    "segments": [
+      {
+        "start": [
+          37.983999999999995,
+          23.724
+        ],
+        "end": [
+          37.994,
+          23.734
+        ],
+        "distance_m": 1400,
+        "elevation_gain_m": 18,
+        "road_type": "paved",
+        "has_bike_lane": true
+      }
+    ],
+    "mode": "walk",
+    "estimated_travel_time_s": 840
+  },
+  {
+    "route_id": "route_005",
+    "segments": [
+      {
+        "start": [
+          37.985,
+          23.724999999999998
+        ],
+        "end": [
+          37.995000000000005,
+          23.735
+        ],
+        "distance_m": 1500,
+        "elevation_gain_m": 20,
+        "road_type": "paved",
+        "has_bike_lane": false
+      }
+    ],
+    "mode": "bike",
+    "estimated_travel_time_s": 900
+  },
+  {
+    "route_id": "route_006",
+    "segments": [
+      {
+        "start": [
+          37.986,
+          23.726
+        ],
+        "end": [
+          37.996,
+          23.736
+        ],
+        "distance_m": 1600,
+        "elevation_gain_m": 22,
+        "road_type": "paved",
+        "has_bike_lane": true
+      }
+    ],
+    "mode": "ev",
+    "estimated_travel_time_s": 960
+  },
+  {
+    "route_id": "route_007",
+    "segments": [
+      {
+        "start": [
+          37.986999999999995,
+          23.727
+        ],
+        "end": [
+          37.997,
+          23.737000000000002
+        ],
+        "distance_m": 1700,
+        "elevation_gain_m": 24,
+        "road_type": "paved",
+        "has_bike_lane": false
+      }
+    ],
+    "mode": "car",
+    "estimated_travel_time_s": 1020
+  },
+  {
+    "route_id": "route_008",
+    "segments": [
+      {
+        "start": [
+          37.988,
+          23.727999999999998
+        ],
+        "end": [
+          37.998000000000005,
+          23.738
+        ],
+        "distance_m": 1800,
+        "elevation_gain_m": 26,
+        "road_type": "paved",
+        "has_bike_lane": true
+      }
+    ],
+    "mode": "walk",
+    "estimated_travel_time_s": 1080
+  },
+  {
+    "route_id": "route_009",
+    "segments": [
+      {
+        "start": [
+          37.989,
+          23.729
+        ],
+        "end": [
+          37.999,
+          23.739
+        ],
+        "distance_m": 1900,
+        "elevation_gain_m": 28,
+        "road_type": "paved",
+        "has_bike_lane": false
+      }
+    ],
+    "mode": "bike",
+    "estimated_travel_time_s": 1140
+  },
+  {
+    "route_id": "route_010",
+    "segments": [
+      {
+        "start": [
+          37.989999999999995,
+          23.73
+        ],
+        "end": [
+          38.0,
+          23.740000000000002
+        ],
+        "distance_m": 2000,
+        "elevation_gain_m": 30,
+        "road_type": "paved",
+        "has_bike_lane": true
+      }
+    ],
+    "mode": "ev",
+    "estimated_travel_time_s": 1200
+  },
+  {
+    "route_id": "route_011",
+    "segments": [
+      {
+        "start": [
+          37.991,
+          23.730999999999998
+        ],
+        "end": [
+          38.001000000000005,
+          23.741
+        ],
+        "distance_m": 2100,
+        "elevation_gain_m": 32,
+        "road_type": "paved",
+        "has_bike_lane": false
+      }
+    ],
+    "mode": "car",
+    "estimated_travel_time_s": 1260
+  },
+  {
+    "route_id": "route_012",
+    "segments": [
+      {
+        "start": [
+          37.992,
+          23.732
+        ],
+        "end": [
+          38.002,
+          23.742
+        ],
+        "distance_m": 2200,
+        "elevation_gain_m": 34,
+        "road_type": "paved",
+        "has_bike_lane": true
+      }
+    ],
+    "mode": "walk",
+    "estimated_travel_time_s": 1320
+  },
+  {
+    "route_id": "route_013",
+    "segments": [
+      {
+        "start": [
+          37.992999999999995,
+          23.733
+        ],
+        "end": [
+          38.003,
+          23.743000000000002
+        ],
+        "distance_m": 2300,
+        "elevation_gain_m": 36,
+        "road_type": "paved",
+        "has_bike_lane": false
+      }
+    ],
+    "mode": "bike",
+    "estimated_travel_time_s": 1380
+  },
+  {
+    "route_id": "route_014",
+    "segments": [
+      {
+        "start": [
+          37.994,
+          23.733999999999998
+        ],
+        "end": [
+          38.004000000000005,
+          23.744
+        ],
+        "distance_m": 2400,
+        "elevation_gain_m": 38,
+        "road_type": "paved",
+        "has_bike_lane": true
+      }
+    ],
+    "mode": "ev",
+    "estimated_travel_time_s": 1440
+  },
+  {
+    "route_id": "route_015",
+    "segments": [
+      {
+        "start": [
+          37.995,
+          23.735
+        ],
+        "end": [
+          38.005,
+          23.745
+        ],
+        "distance_m": 2500,
+        "elevation_gain_m": 40,
+        "road_type": "paved",
+        "has_bike_lane": false
+      }
+    ],
+    "mode": "car",
+    "estimated_travel_time_s": 1500
+  },
+  {
+    "route_id": "route_016",
+    "segments": [
+      {
+        "start": [
+          37.995999999999995,
+          23.735999999999997
+        ],
+        "end": [
+          38.006,
+          23.746
+        ],
+        "distance_m": 2600,
+        "elevation_gain_m": 42,
+        "road_type": "paved",
+        "has_bike_lane": true
+      }
+    ],
+    "mode": "walk",
+    "estimated_travel_time_s": 1560
+  },
+  {
+    "route_id": "route_017",
+    "segments": [
+      {
+        "start": [
+          37.997,
+          23.737
+        ],
+        "end": [
+          38.007000000000005,
+          23.747
+        ],
+        "distance_m": 2700,
+        "elevation_gain_m": 44,
+        "road_type": "paved",
+        "has_bike_lane": false
+      }
+    ],
+    "mode": "bike",
+    "estimated_travel_time_s": 1620
+  },
+  {
+    "route_id": "route_018",
+    "segments": [
+      {
+        "start": [
+          37.998,
+          23.738
+        ],
+        "end": [
+          38.008,
+          23.748
+        ],
+        "distance_m": 2800,
+        "elevation_gain_m": 46,
+        "road_type": "paved",
+        "has_bike_lane": true
+      }
+    ],
+    "mode": "ev",
+    "estimated_travel_time_s": 1680
+  },
+  {
+    "route_id": "route_019",
+    "segments": [
+      {
+        "start": [
+          37.998999999999995,
+          23.738999999999997
+        ],
+        "end": [
+          38.009,
+          23.749
+        ],
+        "distance_m": 2900,
+        "elevation_gain_m": 48,
+        "road_type": "paved",
+        "has_bike_lane": false
+      }
+    ],
+    "mode": "car",
+    "estimated_travel_time_s": 1740
+  }
+]
