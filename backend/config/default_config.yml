@@ -1,0 +1,74 @@
+# Eco Maps Configuration
+
+# User preferences for route scoring
+preferences:
+  time_weight: 1.0
+  co2_weight: 2.0
+  monetary_weight: 0.5
+  energy_weight: 1.5
+  safety_weight: 1.0
+  max_detour_pct: 20
+
+# Model architecture settings
+model:
+  sequence_length: 20
+  hidden_size: 64
+  num_layers: 2
+  context_size: 16
+  dropout: 0.2
+  save_path: models/route_prediction_model.pt
+
+# Training parameters
+training:
+  epochs: 50
+  batch_size: 32
+  learning_rate: 0.001
+  validation_split: 0.2
+
+# Energy models (Wh/km baseline)
+energy_models:
+  walk: 0
+  bike: 0
+  scooter: 15
+  car: 180
+  ev: 150
+  transit: 0
+
+# Battery model defaults
+battery:
+  capacity_kwh: 60
+  min_soc_pct: 15
+  charge_rate_kw: 50
+
+# Safety penalties
+safety:
+  rain_penalty: 2.0
+  night_penalty: 1.5
+  poor_surface_penalty: 1.3
+
+# Server settings
+server:
+  host: "0.0.0.0"
+  port: 8080
+  debug: false
+
+# Privacy settings
+privacy:
+  telemetry_enabled: false
+  store_trajectories: false
+  anonymize_user_ids: true
+
+# External API Configuration
+external_apis:
+  traffic_source: 'here'
+  weather_source: 'openweathermap'
+  grid_carbon_source: 'static'
+  charger_source: 'openchargemap'
+  
+  use_osm_routing: true
+  osm_cache_dir: 'data/osm_cache'
+  
+  here_api_key: ${HERE_API_KEY}
+  tomtom_api_key: ${TOMTOM_API_KEY}
+  openweathermap_api_key: ${OPENWEATHERMAP_API_KEY}
+  openchargemap_api_key: ${OPENCHARGEMAP_API_KEY}

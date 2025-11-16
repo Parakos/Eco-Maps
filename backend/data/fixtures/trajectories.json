@@ -1,0 +1,44 @@
+[
+  {
+    "user_id": "user_A",
+    "timestamp": "2025-11-15T12:00:00",
+    "lat": 37.9838,
+    "lon": 23.7275,
+    "speed_m_s": 1.4,
+    "accel_m_s2": 0.15,
+    "mode": "walk",
+    "context": {"hour": 12, "day": 5, "weather": "clear"}
+  },
+  {
+    "user_id": "user_A",
+    "timestamp": "2025-11-15T12:01:00",
+    "lat": 37.9848,
+    "lon": 23.7285,
+    "speed_m_s": 1.6,
+    "accel_m_s2": 0.2,
+    "mode": "walk",
+    "chosen_route_id": "route_000",
+    "context": {"hour": 12, "day": 5, "weather": "clear"}
+  },
+  {
+    "user_id": "user_B",
+    "timestamp": "2025-11-15T12:05:00",
+    "lat": 37.9868,
+    "lon": 23.7305,
+    "speed_m_s": 4.0,
+    "accel_m_s2": 0.15,
+    "mode": "bike",
+    "context": {"hour": 12, "day": 5, "weather": "clear"}
+  },
+  {
+    "user_id": "user_B",
+    "timestamp": "2025-11-15T12:06:00",
+    "lat": 37.9878,
+    "lon": 23.7315,
+    "speed_m_s": 4.2,
+    "accel_m_s2": 0.2,
+    "mode": "bike",
+    "chosen_route_id": "route_001",
+    "context": {"hour": 12, "day": 5, "weather": "clear"}
+  }
+]

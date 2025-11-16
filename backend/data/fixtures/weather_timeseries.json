@@ -1,0 +1,170 @@
+[
+  {
+    "timestamp": "2025-11-14T08:00:00",
+    "precip_mm": 2.5,
+    "wind_m_s": 3.5,
+    "temp_c": 10,
+    "condition": "rain"
+  },
+  {
+    "timestamp": "2025-11-14T09:00:00",
+    "precip_mm": 0.0,
+    "wind_m_s": 4.5,
+    "temp_c": 11,
+    "condition": "clear"
+  },
+  {
+    "timestamp": "2025-11-14T10:00:00",
+    "precip_mm": 0.0,
+    "wind_m_s": 5.5,
+    "temp_c": 12,
+    "condition": "clear"
+  },
+  {
+    "timestamp": "2025-11-14T11:00:00",
+    "precip_mm": 0.0,
+    "wind_m_s": 3.5,
+    "temp_c": 13,
+    "condition": "clear"
+  },
+  {
+    "timestamp": "2025-11-14T12:00:00",
+    "precip_mm": 2.5,
+    "wind_m_s": 4.5,
+    "temp_c": 14,
+    "condition": "rain"
+  },
+  {
+    "timestamp": "2025-11-14T13:00:00",
+    "precip_mm": 0.0,
+    "wind_m_s": 5.5,
+    "temp_c": 15,
+    "condition": "clear"
+  },
+  {
+    "timestamp": "2025-11-14T14:00:00",
+    "precip_mm": 0.0,
+    "wind_m_s": 3.5,
+    "temp_c": 16,
+    "condition": "clear"
+  },
+  {
+    "timestamp": "2025-11-14T15:00:00",
+    "precip_mm": 0.0,
+    "wind_m_s": 4.5,
+    "temp_c": 17,
+    "condition": "clear"
+  },
+  {
+    "timestamp": "2025-11-14T16:00:00",
+    "precip_mm": 2.5,
+    "wind_m_s": 5.5,
+    "temp_c": 10,
+    "condition": "rain"
+  },
+  {
+    "timestamp": "2025-11-14T17:00:00",
+    "precip_mm": 0.0,
+    "wind_m_s": 3.5,
+    "temp_c": 11,
+    "condition": "clear"
+  },
+  {
+    "timestamp": "2025-11-14T18:00:00",
+    "precip_mm": 0.0,
+    "wind_m_s": 4.5,
+    "temp_c": 12,
+    "condition": "clear"
+  },
+  {
+    "timestamp": "2025-11-14T19:00:00",
+    "precip_mm": 0.0,
+    "wind_m_s": 5.5,
+    "temp_c": 13,
+    "condition": "clear"
+  },
+  {
+    "timestamp": "2025-11-14T20:00:00",
+    "precip_mm": 2.5,
+    "wind_m_s": 3.5,
+    "temp_c": 14,
+    "condition": "rain"
+  },
+  {
+    "timestamp": "2025-11-14T21:00:00",
+    "precip_mm": 0.0,
+    "wind_m_s": 4.5,
+    "temp_c": 15,
+    "condition": "clear"
+  },
+  {
+    "timestamp": "2025-11-14T22:00:00",
+    "precip_mm": 0.0,
+    "wind_m_s": 5.5,
+    "temp_c": 16,
+    "condition": "clear"
+  },
+  {
+    "timestamp": "2025-11-14T23:00:00",
+    "precip_mm": 0.0,
+    "wind_m_s": 3.5,
+    "temp_c": 17,
+    "condition": "clear"
+  },
+  {
+    "timestamp": "2025-11-15T00:00:00",
+    "precip_mm": 2.5,
+    "wind_m_s": 4.5,
+    "temp_c": 10,
+    "condition": "rain"
+  },
+  {
+    "timestamp": "2025-11-15T01:00:00",
+    "precip_mm": 0.0,
+    "wind_m_s": 5.5,
+    "temp_c": 11,
+    "condition": "clear"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:00",
+    "precip_mm": 0.0,
+    "wind_m_s": 3.5,
+    "temp_c": 12,
+    "condition": "clear"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:00",
+    "precip_mm": 0.0,
+    "wind_m_s": 4.5,
+    "temp_c": 13,
+    "condition": "clear"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:00",
+    "precip_mm": 2.5,
+    "wind_m_s": 5.5,
+    "temp_c": 14,
+    "condition": "rain"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:00",
+    "precip_mm": 0.0,
+    "wind_m_s": 3.5,
+    "temp_c": 15,
+    "condition": "clear"
+  },
+  {
+    "timestamp": "2025-11-15T06:00:00",
+    "precip_mm": 0.0,
+    "wind_m_s": 4.5,
+    "temp_c": 16,
+    "condition": "clear"
+  },
+  {
+    "timestamp": "2025-11-15T07:00:00",
+    "precip_mm": 0.0,
+    "wind_m_s": 5.5,
+    "temp_c": 17,
+    "condition": "clear"
+  }
+]
